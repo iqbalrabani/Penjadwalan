@@ -16,7 +16,7 @@ int main() {
         rt[i]=b[i];
     }
 
-    printf("Masukkan time quantum ");
+    printf("Masukkan time quantum :");
     scanf("%d",&tq);
     printf("\n\nProcess\t|Turnaround time|waiting time\n\n");
 
